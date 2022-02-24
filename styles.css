@@ -5,16 +5,19 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #707070;
-  line-height: 40px
+  background-color: #A0A0A0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
 }
 
 .topnav a {
   float: left;
   color: black;
-  display: block;
+  display: block;  
   text-align: center;
-  padding: 10px 136.3px;
+  padding: 1px 50px;
   text-decoration: none;
   font-size: 22px;
 
@@ -30,9 +33,12 @@ body {
   color: black;
 }
 
+
 div.a {
   text-align: justify;
-  margin: 50px;
+  margin-top: 125px;
+  margin-left: 50px;
+  margin-bottom: 50px;
 }
 
 footer {
@@ -42,9 +48,6 @@ footer {
   color: white;
 }
 
-div.a {
-  text-align: justify;
-}
 
 div.b {
   text-align: justify;
