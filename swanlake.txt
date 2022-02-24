@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+	<link rel="stylesheet" href="styles.css">
+    <title>SWAN LAKE</title>
+<style>
+div.a {
+  text-align: justify;
+}
+</style>
+</head>
+<body>
+<ul>
+  <li><a href="index.html"><img src="sbglogo.jpg" alt="Singapore Botanic Gardens" width="150" height="50"></a></li>
+  <li><a href="index.html">HOME</a></li>
+  <li><a href="aboutus.html">ABOUT US</a></li>
+  <li><a class="active" href="attractions.html"><b>ATTRACTIONS</b></a></li>
+  <li><a href="aboutus.html">ABOUT US</a></li>
+  <li><a href="visitus.html">VISIT US</a></li>
+</ul>
+
+  <div class="a">
+  <h2>Swan Lake</h2>
+  <img src="swanlake.jpg" alt="Swan Lake" width="150" height="150">
+  <p> The Swan Lake is a major attraction in the Singapore Botanic Gardens. It was formerly also known as the Main Lake or the First Lake. It was constructed in 1866, shortly after the Gardens formation. It is considered to be the oldest ornamental water-feature in Singapore.</p>
+  <p> Home to numerous species of aquatic plants and fishes, the lake covers an area of slightly less than 1.5 hectares, with a depth of about 4 metres. The Swan Lake is named as such because of a pair of beautiful mute swans from Amsterdam that glide gracefully across the lake. These swans never fail to thrill visitors. </p>
+  <p> Another iconic feature of the lake is the island with its large clump of Nibong palms (Oncosperma tigillarium) which were recorded to be planted here in 1891. The Swan Lake also serves as an important water point to supply water for the Gardens’ plants around the Tanglin Core. </p>
+  </div>
+
+</body>
+</html>
